@@ -12,4 +12,3 @@ ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
 ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 
 st.pyplot(fig1)
-Output:
